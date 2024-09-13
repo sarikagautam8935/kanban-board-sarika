@@ -12,7 +12,7 @@ This is a Kanban board application built using React JS that interacts with the 
 
 ## Demo
 
-You can see a live demo of the Kanban board application [here](https://chitrankar-quicksell-assignment.vercel.app/).
+You can see a live demo of the Kanban board application [here](https://kanban-board-sarika.vercel.app/).
 
 ## Installation
 
@@ -20,7 +20,7 @@ To run the Kanban board application locally, follow these steps:
 
 1. Clone the repository:
    ```bash
-   git clone https://github.com/neo7505/Chitrankar-Quicksell-Assignment.git
+   git clone https://github.com/sarikagautam8935/kanban-board-sarika
    ```
 
 2. Navigate to the project directory:
